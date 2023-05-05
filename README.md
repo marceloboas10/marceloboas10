@@ -1,5 +1,5 @@
 ### Olá! Eu sou Marcelo Henrique Vilas Boas
-Sou formado em Análise e Desenvolimento de Sistemas, apaixonado por tecnologia e inovação.
+Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação.
 ##
 - 💻 Trabalhando como Analista de Suporte
 - 📖 Me aperfeiçoando em Dart e Flutter
