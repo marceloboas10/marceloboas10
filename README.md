@@ -2,7 +2,8 @@
 Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação.
 ##
 - 💻 Trabalhando como Analista de Suporte
-- 📖 Me aperfeiçoando em Dart e Flutter
+- 📱 Me aperfeiçoando em Dart e Flutter
+- 🗽Learning English
 
 <div style="display: inline_block">
   <img align="center" alt="Marcelo-Dart" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
