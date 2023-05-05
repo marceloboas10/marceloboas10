@@ -1,8 +1,8 @@
 ### Olá! Eu sou Marcelo Henrique Vilas Boas
 Sou formado em Análise e Desenvolimento de Sistemas, apaixonado por tecnologia e inovação.
 ##
-- 💻 Hoje estou trabalhando como Analista de Suporte
-- 📖 Estou me aperfeiçoando em Dart e Flutter
+- 💻 Trabalhando como Analista de Suporte
+- 📖 Me aperfeiçoando em Dart e Flutter
 
 <div style="display: inline_block">
   <img align="center" alt="Marcelo-Dart" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
