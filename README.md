@@ -25,4 +25,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloboas10&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=marceloboas10)
+//![visitor badge](https://visitor-badge.glitch.me/badge?page_id=marceloboas10)
