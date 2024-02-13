@@ -1,6 +1,6 @@
 # Olá! Eu sou Marcelo Henrique Vilas Boas
 
-- 💻 Trabalhando como Analista de Suporte
+- 💻 Desenvolvedor Mobile Flutter
 - 👨🏾‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 📱 Me aperfeiçoando em Dart e Flutter na Academia do Flutter
 - 🗽Learning English
